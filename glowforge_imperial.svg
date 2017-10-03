@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="glowforge.svg">
+   sodipodi:docname="glowforge_imperial.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,10 +25,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.30494792"
-     inkscape:cx="893.75767"
-     inkscape:cy="983.37559"
-     inkscape:document-units="mm"
+     inkscape:zoom="0.60989584"
+     inkscape:cx="958.65595"
+     inkscape:cy="556.38741"
+     inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:showpageshadow="true"
@@ -46,56 +46,56 @@
        position="18,294.49999"
        orientation="1,0"
        id="guide62"
-       inkscape:locked="true"
+       inkscape:locked="false"
        inkscape:label="Engrave left"
        inkscape:color="rgb(127,0,255)" />
     <sodipodi:guide
        position="477.49999,294.49999"
        orientation="1,0"
        id="guide68"
-       inkscape:locked="true"
+       inkscape:locked="false"
        inkscape:label="Engrave right"
        inkscape:color="rgb(127,0,255)" />
     <sodipodi:guide
        position="0.49999999,294.49999"
        orientation="0,1"
        id="guide70"
-       inkscape:locked="true"
+       inkscape:locked="false"
        inkscape:label="Top"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="0.49999999,294.49999"
        orientation="1,0"
        id="guide471"
-       inkscape:locked="true"
+       inkscape:locked="false"
        inkscape:label="Cut left"
        inkscape:color="rgb(255,0,255)" />
     <sodipodi:guide
        position="494.49999,294.49999"
        orientation="1,0"
        id="guide475"
-       inkscape:locked="true"
+       inkscape:locked="false"
        inkscape:label="Cut right"
        inkscape:color="rgb(255,0,255)" />
     <sodipodi:guide
        position="0.49999999,16"
        orientation="0,1"
        id="guide481"
-       inkscape:locked="true"
+       inkscape:locked="false"
        inkscape:label="Bottom"
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="247.74999,155.25"
        orientation="1,0"
        id="guide597"
-       inkscape:locked="true"
+       inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(127,0,255)" />
     <sodipodi:guide
        position="247.74999,155.25"
        orientation="0,1"
        id="guide603"
-       inkscape:locked="true"
+       inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <inkscape:grid
@@ -105,7 +105,7 @@
        position="247.49999,155.25"
        orientation="1,0"
        id="guide4479"
-       inkscape:locked="true"
+       inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(255,0,255)" />
   </sodipodi:namedview>
@@ -128,8 +128,9 @@
      transform="translate(0,-2.0000455)">
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 0 0 L 0 1114.9609 L 1920 1114.9609 L 1920 0 L 0 0 z "
+       d="M 0,0 V 1114.9609 H 1920 V 0 Z"
        transform="matrix(0.26458333,0,0,0.26458333,0,2.0000455)"
-       id="rect336" />
+       id="rect336"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
